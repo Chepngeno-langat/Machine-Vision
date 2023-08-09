@@ -1,1 +1,1 @@
-Research and sample project on machine vision using Machine Learning and Deep Learning models
+Research and sample projects on machine vision using Machine Learning and Deep Learning models
